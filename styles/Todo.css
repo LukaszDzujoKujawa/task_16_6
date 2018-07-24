@@ -1,0 +1,17 @@
+.todo {
+  margin: 2% 0;
+}
+
+.todo::first-letter {
+  text-transform: uppercase;
+}
+
+.todo button {
+  margin-left: 5%;
+  padding: 0 5px;
+  background-color: #FF4C4C;
+  border: 1px solid black;
+  font-family: inherit;
+  font-weight: 700;
+  cursor: pointer;
+}
